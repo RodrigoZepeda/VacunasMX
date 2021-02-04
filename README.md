@@ -1,7 +1,7 @@
 # VacunasMX
 **Datos de las vacunas presentados en la conferencia de la SSA**
 
-El archivo principal es [Registro_Vacunas.csv](https://github.com/RodrigoZepeda/VacunasMX/Registro_Vacunas.csv) el cual contiene las siguientes variables:
+El archivo principal es [Registro_Vacunas.csv](https://github.com/RodrigoZepeda/VacunasMX/blob/main/Registro_Vacunas.csv) el cual contiene las siguientes variables:
 
 | **Variable**      | **Formato** | **Descripción**                                                            |
 |-------------------|-------------|----------------------------------------------------------------------------|
